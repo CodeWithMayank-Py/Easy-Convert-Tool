@@ -1,6 +1,6 @@
 # Easy Convert Tool
 
-This repository contains an ongoing project called File Format Conversion Wizard. It is a tool being developed to facilitate seamless file format conversion, eliminating compatibility issues and enhancing productivity.
+This repository contains an ongoing project called Easy Convert Tool. It is a tool being developed to facilitate seamless file format conversion, eliminating compatibility issues and enhancing productivity.
 
 ## Project Status
 
