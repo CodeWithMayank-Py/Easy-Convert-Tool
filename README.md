@@ -1,10 +1,10 @@
-# Quick Format
+# Easy Convert Tool
 
 This repository contains an ongoing project called File Format Conversion Wizard. It is a tool being developed to facilitate seamless file format conversion, eliminating compatibility issues and enhancing productivity.
 
 ## Project Status
 
-The development of the Quick Format is currently in progress. The tool is being designed to provide a user-friendly Graphical User Interface (GUI) for easy file format conversion. While it is not yet complete, I am actively working on it and adding new features regularly.
+The development of the Easy Convert Tool is currently in progress. The tool is being designed to provide a user-friendly Graphical User Interface (GUI) for easy file format conversion. While it is not yet complete, I am actively working on it and adding new features regularly.
 
 Stay tuned for updates as the project progresses!
 
