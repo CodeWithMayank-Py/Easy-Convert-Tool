@@ -10,7 +10,8 @@ Get started with Easy Convert Tool by downloading it from the following link: [D
 
 ## Project Status
 
-Easy Convert Tool is currently under development, with new features and enhancements being added regularly. Stay tuned for updates as we continue to improve and refine the tool.
+Easy Convert Tool is a completed project that offers seamless file format conversion with its intuitive user interface. The tool is now at version 1.0.0 and includes a built-in update mechanism to ensure you have access to the latest features and enhancements.
+
 
 ## Features (Planned)
 
