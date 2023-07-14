@@ -1,6 +1,6 @@
 # Easy Convert Tool 🚀
 
-![Easy Convert Tool](https://github.com/your-username/easy-convert-tool/blob/main/ECTool_image.png)
+![Easy Convert Tool](https://github.com/CodeWithMayank-Py/easy-convert-tool/blob/main/ECTool_image.png)
 
 Welcome to Easy Convert Tool, a powerful file format conversion tool designed to simplify the process and enhance your productivity.
 
