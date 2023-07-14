@@ -1,4 +1,6 @@
-# Easy Convert Tool 🚀
+# <span style="font-size: 20px;">Easy Convert Tool</span> 	:hammer:
+<span style="font-size: 14px;">Powered by C.o.r.t.e.x.X :rocket:</span>
+
 
 ![Easy Convert Tool](https://github.com/CodeWithMayank-Py/easy-convert-tool/blob/main/ECTool_image.png)
 
