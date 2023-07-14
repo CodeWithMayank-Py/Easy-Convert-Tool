@@ -43,7 +43,7 @@ Thank you for your interest in contributing to the Easy Convert Tool project! Co
 - 🐛 **Bug Reports**: If you come across any bugs or issues while using the tool, please open an issue in the GitHub repository with detailed information about the problem.
 - 🌟 **Feedback and Suggestions**: Have ideas or suggestions to make the tool even better? Share your thoughts by opening an issue or starting a discussion in the GitHub repository.
 
-Please read our [contribution guidelines](CONTRIBUTING.md) for more details on how to contribute.
+Please read our [contribution guidelines](contribution.md) for more details on how to contribute.
 
 We appreciate your support and look forward to your contributions!
 
