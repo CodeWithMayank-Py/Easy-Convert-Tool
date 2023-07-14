@@ -44,11 +44,14 @@ Thank you for your interest in contributing to the Easy Convert Tool project! Co
 Please read our [contribution guidelines](CONTRIBUTING.md) for more details on how to contribute.
 
 We appreciate your support and look forward to your contributions!
+
+
 ## License
 
-Easy Convert Tool is currently under development and will be released under an appropriate open-source license upon completion.
+This project is released under the [MIT License](LICENSE). Please note that this tool is for educational purposes only. Unauthorized duplication or distribution of this tool without proper permission is not allowed.
 
-Feel free to reach out if you have any questions or suggestions!
+Feel free to reach out if you have any questions or need further assistance. Happy converting!
+
 
 ---
 
