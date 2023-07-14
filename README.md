@@ -33,14 +33,17 @@ Easy Convert Tool is a completed project that offers seamless file format conver
 Stay tuned for future updates and more exciting features! Each version will offer an improved user experience. Make sure to bookmark this repository to stay updated with the latest developments.
 
 
-
-
-
-
 ## How to Contribute
 
-Contributions to Easy Convert Tool are not yet open, but we appreciate your interest in the project. Please watch this repository for future updates and opportunities to contribute.
+Thank you for your interest in contributing to the Easy Convert Tool project! Contributions are welcome and encouraged. Here are some ways you can contribute:
 
+- 💻 **Code Contributions**: If you have coding skills, feel free to fork this repository, make improvements or add new features, and submit a pull request.
+- 🐛 **Bug Reports**: If you come across any bugs or issues while using the tool, please open an issue in the GitHub repository with detailed information about the problem.
+- 🌟 **Feedback and Suggestions**: Have ideas or suggestions to make the tool even better? Share your thoughts by opening an issue or starting a discussion in the GitHub repository.
+
+Please read our [contribution guidelines](CONTRIBUTING.md) for more details on how to contribute.
+
+We appreciate your support and look forward to your contributions!
 ## License
 
 Easy Convert Tool is currently under development and will be released under an appropriate open-source license upon completion.
