@@ -13,13 +13,22 @@ Get started with Easy Convert Tool by downloading it from the following link: [D
 Easy Convert Tool is a completed project that offers seamless file format conversion with its intuitive user interface. The tool is now at version 1.0.0 and includes a built-in update mechanism to ensure you have access to the latest features and enhancements.
 
 
-## Features (Planned)
+## Features
 
-✨ Intuitive GUI for effortless file format conversion\
-✨ Support for a wide range of file formats, including PDF, DOCX, CSV, and more\
-✨ Batch conversion capabilities for efficient processing of multiple files\
-✨ Customizable conversion settings to meet your specific needs\
-✨ Built-in update mechanism to keep you up-to-date with the latest features
+- Intuitive GUI for effortless file format conversion.
+- Support for a wide range of file formats, including PDF, DOCX, CSV, XLSX, and more.
+- Batch conversion capabilities for efficient processing of multiple files.
+- Options for customizing conversion settings and preserving formatting.
+- Built-in update mechanism to ensure you have access to the latest features and enhancements.
+- Secure file conversion process with data privacy.
+- Advanced OCR (Optical Character Recognition) for converting scanned documents.
+- Integration with cloud storage platforms for direct file conversion.
+- User-friendly interface with drag-and-drop functionality.
+- Cross-platform compatibility (Windows, macOS, Linux).
+- Comprehensive documentation and user guide for easy usage.
+
+Stay tuned for future updates and more exciting features!
+
 
 ## How to Contribute
 
